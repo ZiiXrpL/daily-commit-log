@@ -1,1 +1,6 @@
 
+# Log Harian
+
+- 2025-05-18: Belajar Git dasar
+- 2025-05-19: Update repo portfolio
+- 2025-05-20: Commit harian tetap jalan
